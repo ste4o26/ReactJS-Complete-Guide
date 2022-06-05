@@ -1,0 +1,9 @@
+.finder {
+    display: flex;
+    margin: 2rem auto;
+    background-color: white;
+    padding: 0.5rem;
+    border-radius: 12px;
+    max-width: 40rem;
+    text-align: center;
+  }
